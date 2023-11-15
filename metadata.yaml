@@ -1,0 +1,39 @@
+_repo: Durch-die-Wusten-und-Kulturstatten-Syriens_72025
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sargent, John Singer
+    alias: Sargent, John S.
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '36606'
+    url: http://www.gutenberg.org/2009/agents/36606
+    wikipedia: https://en.wikipedia.org/wiki/John_Singer_Sargent
+creator:
+  author:
+    agent_name: Bell, Gertrude Lowthian
+    alias: Bell, Gertrude Margaret Lowthian
+    birthdate: 1868
+    deathdate: 1926
+    gutenberg_agent_id: '46514'
+    url: http://www.gutenberg.org/2009/agents/46514
+    wikipedia: https://en.wikipedia.org/wiki/Gertrude_Bell
+description: ''
+gutenberg_issued: '2023-11-04'
+identifiers:
+  gutenberg: '72025'
+language: de
+pgterms:marc904: https://archive.org/details/durchdiewustenun00bell
+pgterms:marc905: 20180602023709bell
+pgterms:marc906: '1908'
+pgterms:marc907: de
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLeipzig :$bVerlag von Otto Spamer, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Durch die Wüsten und Kulturstätten Syriens
+url: http://www.gutenberg.org/ebooks/72025
