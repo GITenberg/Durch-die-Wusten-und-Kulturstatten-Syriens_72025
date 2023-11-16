@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '36606'
     url: http://www.gutenberg.org/2009/agents/36606
     wikipedia: https://en.wikipedia.org/wiki/John_Singer_Sargent
+covers:
+- cover_type: archival
+  image_path: 72025-h/images/cover.jpg
 creator:
   author:
     agent_name: Bell, Gertrude Lowthian
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46514
     wikipedia: https://en.wikipedia.org/wiki/Gertrude_Bell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72025#Durch-die-Wusten-und-Kulturstatten-Syriens
 gutenberg_issued: '2023-11-04'
 identifiers:
   gutenberg: '72025'
